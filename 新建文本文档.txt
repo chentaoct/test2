@@ -1,6 +1,5 @@
-1111
-222
+http://121.43.199.72:4700/user/small/qrySmallCustInfoSerVice
+http://121.43.199.72:4700/user/cifcust/CancelAccountService
+http://121.43.199.72:4700/user/small/qrySecurityCenterInfoService
 
-001
-002
-003
+http://121.43.199.72:4700/user/small/saveAccountInfoService
